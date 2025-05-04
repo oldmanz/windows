@@ -28,6 +28,9 @@ git config --global user.email "travis@oldmanz.com"
 - Remove Icons from Dock
 - Turn off Search
 - Remove all apps from start menu
+- File Explorer
+  - Show Hidden files
+  - Show file extensions
 
 ### Geek Uninstaller
 - Download Geek Uninstaller
@@ -59,18 +62,39 @@ winget install --id=Neovim.Neovim  -e
 
 ### AHK
 - Install AutoHotkey
+- Setup Start up scripts
+  - Win + R -> shell:startup
+  - Copy ahk file
+  - "Paste Shortcut"
 
+### AutoLogin
+- Settings > Account > Sign In Options > Required to sign when been away no
+- Regedit
+  - `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
+  - `DevicePasswordLessBuildVersion` = 0
+- netplwiz
+  - Untick "Users must enter password...."
+  - username is full email
 
-### Other Software
+### Software
 - Chrome
 - VSCode
     - Vim
     - Theme
+
+#### Games
 - Steam
+  - Move game install folder to root dir
+    - https://github.com/LostDragonist/steam-library-setup-tool/releases
+    - EXIT Steam
+    - like: `C://SteamLibrary`
+    - Rename old library to "DONT USE"
+    - Make New Library Default
+
 - Discord
-- Cura
-- Fusion 360
-- Lightburn
+- Boot XBOX app to update and login
+- Launch game bar and turn off open with controller guide
+- Xbox Accessories app for controllers https://apps.microsoft.com/detail/9nblggh30xj3?hl=en-US&gl=US
 
 
 
