@@ -31,6 +31,12 @@ git config --global user.email "travis@oldmanz.com"
 - File Explorer
   - Show Hidden files
   - Show file extensions
+- Adjust Sleep Settings
+
+### Page File
+- Advanced System Settings
+- Performance Options > Advanced > VMemory > Change
+- Custom Size: 40000  (40GB)
 
 ### Geek Uninstaller
 - Download Geek Uninstaller
