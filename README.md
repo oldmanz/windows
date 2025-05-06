@@ -17,6 +17,11 @@ git config --global user.name oldmanz
 git config --global user.email "travis@oldmanz.com"
 ```
 
+### Drivers
+- AMD Chipset Drivers from AMD Site (AM5 b650)
+- Other drivers for motherboard from site
+  - May need lan / wifi driver for network during install.
+
 ### Graphics
 - Download GPU Software (amd adren or nvidia)
 - Set monitor and TV display settings
