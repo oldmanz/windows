@@ -17,6 +17,11 @@ git config --global user.name oldmanz
 git config --global user.email "travis@oldmanz.com"
 ```
 
+### Activate
+```
+irm https://get.activated.win | iex
+```
+
 ### Graphics
 - Download GPU Software (amd adren or nvidia)
 - Set monitor and TV display settings
