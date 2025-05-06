@@ -1,3 +1,6 @@
+### Update Windows 
+- In settings
+
 ### GIT
 - Download Git
   - In setup, make sure to toggle clrf line ending stuff
@@ -17,10 +20,16 @@ git config --global user.name oldmanz
 git config --global user.email "travis@oldmanz.com"
 ```
 
+### Activate
+```
+irm https://get.activated.win | iex
+```
+
 ### Drivers
 - AMD Chipset Drivers from AMD Site (AM5 b650)
 - Other drivers for motherboard from site
   - May need lan / wifi driver for network during install.
+
 
 ### Graphics
 - Download GPU Software (amd adren or nvidia)
@@ -89,6 +98,7 @@ winget install --id=Neovim.Neovim  -e
 
 ### Software
 - Chrome
+  - Set as default browser
 - VSCode
     - Vim
     - Theme
