@@ -1,3 +1,6 @@
+### Update Windows 
+- In settings
+
 ### GIT
 - Download Git
   - In setup, make sure to toggle clrf line ending stuff
@@ -89,6 +92,7 @@ winget install --id=Neovim.Neovim  -e
 
 ### Software
 - Chrome
+  - Set as default browser
 - VSCode
     - Vim
     - Theme
