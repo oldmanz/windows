@@ -126,3 +126,8 @@ winget install --id=Neovim.Neovim  -e
 ### Disable StartUp 
 - shift-ctrl-esc
 - Toggle off most startup services.
+
+## Fan Curves in BIOS
+- 0-70 degrees = 40%
+- 75 = 80%
+- 80 = 100%
